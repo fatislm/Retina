@@ -1,5 +1,2 @@
 # Retina
-<img width="979" height="381" alt="image" src="https://github.com/user-attachments/assets/d5c19bba-5a42-4250-9345-323d3d1db2a0" />
-
 Topology-preserving CNN analysis of retinal ganglion cell MEA recordings across ON/OFF flashes and chirp stimuli.
-This repository contains the code accompanying the manuscript “Deep Learning Reveals Retinal Ganglion Cell Spatiotemporal Patterns Across Diverse Visual Stimuli”. It includes the preprocessing pipeline that maps raw 60-electrode MEA recordings onto an 8×8×3 RGB spatio-temporal representation, the convolutional neural network training and subject-grouped cross-validation code, baseline models, and the UMAP/HDBSCAN analyses of CNN latent features. The raw recordings are publicly available on Zenodo (doi:10.5281/zenodo.6819514, CC BY 4.0).
